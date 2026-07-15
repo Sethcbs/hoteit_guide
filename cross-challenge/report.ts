@@ -7,7 +7,12 @@ async function main() {
             console.error(err);
             return;
         }
-        console.log(data);
+        const people = JSON.parse(data);
+        for(i = 0; i < len(people); i++){
+            if(people[i].age >= 18){
+                console.log(people[i].name);
+            }
+        }
     });
 }
 

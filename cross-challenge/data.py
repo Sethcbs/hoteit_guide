@@ -28,7 +28,12 @@ if __name__ == "__main__":
         f.write("{\n")
         for i in range(99):
             f.write("   \"person\": {\n")
-            f.write(f"      \"firstname\": \"{names[i]}\"\n")
-            f.write(f"      \"age\": \"{random.randint(1,100)}\"\n")
+            f.write(f"      \"firstname\": \"{names[i]}\",\n")
+            f.write(f"      \"age\": \"{random.randint(1,100)}\",\n")
             f.write(f"      \"city\": \"{GetCity()}\"\n")
-            f.write("   },\n")
+            if(i != 98):
+                f.write("   },\n")
+            else:
+                f.write("   }\n")
+        f.write("}")
+
