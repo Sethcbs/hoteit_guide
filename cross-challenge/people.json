@@ -1,497 +1,103 @@
 {
-   "person": {
-      "firstname": "Keshawn",
-      "age": "73",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Amarii",
-      "age": "95",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Dakoda",
-      "age": "2",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Warren",
-      "age": "63",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Adryan",
-      "age": "7",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Nikolai",
-      "age": "41",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Mecca",
-      "age": "59",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Dontae",
-      "age": "93",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Calli",
-      "age": "72",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Ziva",
-      "age": "77",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Julieth",
-      "age": "87",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Samiah",
-      "age": "83",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Fia",
-      "age": "65",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Brinkley",
-      "age": "46",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Jules",
-      "age": "47",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Azariyah",
-      "age": "81",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Bridgette",
-      "age": "83",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Jeremih",
-      "age": "90",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Jerrica",
-      "age": "60",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Promise",
-      "age": "85",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Kidus",
-      "age": "47",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Cincere",
-      "age": "16",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Eamon",
-      "age": "74",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Opal",
-      "age": "41",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Blimy",
-      "age": "42",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Lucio",
-      "age": "46",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Mariely",
-      "age": "43",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Analyn",
-      "age": "79",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Shiloh",
-      "age": "12",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Karely",
-      "age": "48",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Jackelyn",
-      "age": "74",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Flor",
-      "age": "34",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Hyrum",
-      "age": "2",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Henny",
-      "age": "79",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Abdias",
-      "age": "81",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Angelina",
-      "age": "62",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Stefano",
-      "age": "37",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Yehuda",
-      "age": "4",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Kynzlee",
-      "age": "33",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Randal",
-      "age": "69",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Olivier",
-      "age": "39",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Jayde",
-      "age": "86",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Louise",
-      "age": "82",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Zavien",
-      "age": "25",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Carmelo",
-      "age": "80",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Elida",
-      "age": "37",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Eyad",
-      "age": "46",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Damani",
-      "age": "75",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Tristyn",
-      "age": "97",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Cleo",
-      "age": "27",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Giovani",
-      "age": "95",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Ayana",
-      "age": "7",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Vittorio",
-      "age": "71",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Farrah",
-      "age": "12",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Anirudh",
-      "age": "62",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Claude",
-      "age": "70",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Alyiah",
-      "age": "95",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Embry",
-      "age": "26",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Alida",
-      "age": "40",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Hanah",
-      "age": "34",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Ayesha",
-      "age": "32",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Akshay",
-      "age": "64",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Rylin",
-      "age": "6",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Cody",
-      "age": "100",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Lariyah",
-      "age": "21",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Zuriel",
-      "age": "18",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Leylah",
-      "age": "12",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Colette",
-      "age": "31",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Mikaela",
-      "age": "32",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Reynaldo",
-      "age": "54",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Dion",
-      "age": "39",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Shani",
-      "age": "87",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Bram",
-      "age": "16",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Tommie",
-      "age": "74",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Kalee",
-      "age": "7",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Magali",
-      "age": "49",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Elyn",
-      "age": "31",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Kaison",
-      "age": "48",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Veronika",
-      "age": "54",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Hatcher",
-      "age": "22",
-      "city": "Tigard"
-   },
-   "person": {
-      "firstname": "Kamilla",
-      "age": "80",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Ayub",
-      "age": "50",
-      "city": "Ridgefield"
-   },
-   "person": {
-      "firstname": "Dmarion",
-      "age": "47",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Adrianna",
-      "age": "53",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Zakariya",
-      "age": "18",
-      "city": "Pleasant Hill"
-   },
-   "person": {
-      "firstname": "Grayce",
-      "age": "62",
-      "city": "Concord"
-   },
-   "person": {
-      "firstname": "Treyson",
-      "age": "3",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Roman",
-      "age": "11",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Kendrick",
-      "age": "67",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Gabrielle",
-      "age": "53",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Olliver",
-      "age": "91",
-      "city": "Seattle"
-   },
-   "person": {
-      "firstname": "Myles",
-      "age": "81",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Valencia",
-      "age": "30",
-      "city": "Portland"
-   },
-   "person": {
-      "firstname": "Imari",
-      "age": "17",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Torrey",
-      "age": "88",
-      "city": "San Francisco"
-   },
-   "person": {
-      "firstname": "Rainey",
-      "age": "61",
-      "city": "Walnut Creek"
-   },
-   "person": {
-      "firstname": "Charlea",
-      "age": "69",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Xavior",
-      "age": "60",
-      "city": "Beaverton"
-   },
-   "person": {
-      "firstname": "Liliana",
-      "age": "23",
-      "city": "Pleasant Hill"
-   }
+   "people": [
+      { "firstname": "Haroon", "age": 86, "city": "Walnut Creek" },
+      { "firstname": "Harmonie", "age": 14, "city": "Ridgefield" },
+      { "firstname": "Horacio", "age": 67, "city": "Pleasant Hill" },
+      { "firstname": "Duane", "age": 54, "city": "Beaverton" },
+      { "firstname": "Rozlyn", "age": 72, "city": "Beaverton" },
+      { "firstname": "Aly", "age": 97, "city": "Walnut Creek" },
+      { "firstname": "Isa", "age": 80, "city": "San Francisco" },
+      { "firstname": "Dontae", "age": 32, "city": "Walnut Creek" },
+      { "firstname": "Alfredo", "age": 4, "city": "Seattle" },
+      { "firstname": "Daveon", "age": 32, "city": "Seattle" },
+      { "firstname": "Liesl", "age": 57, "city": "Seattle" },
+      { "firstname": "Honesty", "age": 79, "city": "Concord" },
+      { "firstname": "Hania", "age": 46, "city": "Portland" },
+      { "firstname": "Sevyn", "age": 47, "city": "San Francisco" },
+      { "firstname": "Mariafernanda", "age": 34, "city": "Portland" },
+      { "firstname": "Vibha", "age": 50, "city": "Seattle" },
+      { "firstname": "Sidney", "age": 50, "city": "Beaverton" },
+      { "firstname": "Denver", "age": 20, "city": "Ridgefield" },
+      { "firstname": "Getsemani", "age": 18, "city": "Pleasant Hill" },
+      { "firstname": "Jaheem", "age": 63, "city": "Portland" },
+      { "firstname": "Reese", "age": 91, "city": "Portland" },
+      { "firstname": "Elan", "age": 93, "city": "Beaverton" },
+      { "firstname": "Ivonne", "age": 41, "city": "Seattle" },
+      { "firstname": "Easten", "age": 4, "city": "Pleasant Hill" },
+      { "firstname": "Neila", "age": 63, "city": "Concord" },
+      { "firstname": "Myer", "age": 32, "city": "Pleasant Hill" },
+      { "firstname": "Lynnix", "age": 74, "city": "Tigard" },
+      { "firstname": "Nestor", "age": 67, "city": "Portland" },
+      { "firstname": "Aubri", "age": 59, "city": "Concord" },
+      { "firstname": "Willard", "age": 88, "city": "Beaverton" },
+      { "firstname": "Ellamae", "age": 44, "city": "Concord" },
+      { "firstname": "Jeremyah", "age": 29, "city": "Ridgefield" },
+      { "firstname": "Eligh", "age": 2, "city": "Portland" },
+      { "firstname": "Sullivan", "age": 47, "city": "San Francisco" },
+      { "firstname": "Litzy", "age": 90, "city": "Ridgefield" },
+      { "firstname": "Asa", "age": 88, "city": "Beaverton" },
+      { "firstname": "Lowell", "age": 73, "city": "Concord" },
+      { "firstname": "Ivan", "age": 81, "city": "Tigard" },
+      { "firstname": "Citlaly", "age": 60, "city": "Seattle" },
+      { "firstname": "Journii", "age": 11, "city": "Pleasant Hill" },
+      { "firstname": "Aren", "age": 21, "city": "Beaverton" },
+      { "firstname": "Kendyll", "age": 47, "city": "Concord" },
+      { "firstname": "Adelina", "age": 98, "city": "Tigard" },
+      { "firstname": "Taylor", "age": 42, "city": "Portland" },
+      { "firstname": "Troy", "age": 16, "city": "Walnut Creek" },
+      { "firstname": "Raisa", "age": 54, "city": "Beaverton" },
+      { "firstname": "Lawton", "age": 48, "city": "Portland" },
+      { "firstname": "Fidel", "age": 70, "city": "Ridgefield" },
+      { "firstname": "Bo", "age": 2, "city": "Seattle" },
+      { "firstname": "Eben", "age": 80, "city": "Walnut Creek" },
+      { "firstname": "Robby", "age": 71, "city": "Pleasant Hill" },
+      { "firstname": "Brady", "age": 20, "city": "Tigard" },
+      { "firstname": "Pierson", "age": 53, "city": "Portland" },
+      { "firstname": "Nashly", "age": 75, "city": "Portland" },
+      { "firstname": "Solomon", "age": 96, "city": "San Francisco" },
+      { "firstname": "Fatimah", "age": 59, "city": "Tigard" },
+      { "firstname": "Nechama", "age": 17, "city": "Portland" },
+      { "firstname": "Adiel", "age": 53, "city": "Portland" },
+      { "firstname": "Matthias", "age": 63, "city": "Tigard" },
+      { "firstname": "Langston", "age": 61, "city": "Pleasant Hill" },
+      { "firstname": "Tremayne", "age": 26, "city": "Ridgefield" },
+      { "firstname": "Yasmin", "age": 97, "city": "Seattle" },
+      { "firstname": "Kyana", "age": 16, "city": "Seattle" },
+      { "firstname": "Caleah", "age": 92, "city": "Portland" },
+      { "firstname": "Eston", "age": 36, "city": "Ridgefield" },
+      { "firstname": "Joslin", "age": 43, "city": "Beaverton" },
+      { "firstname": "Molli", "age": 47, "city": "Concord" },
+      { "firstname": "Ena", "age": 60, "city": "Tigard" },
+      { "firstname": "Yohanna", "age": 69, "city": "Tigard" },
+      { "firstname": "Arlee", "age": 19, "city": "Concord" },
+      { "firstname": "Kabir", "age": 35, "city": "Tigard" },
+      { "firstname": "Dayla", "age": 93, "city": "Portland" },
+      { "firstname": "Emily", "age": 11, "city": "Ridgefield" },
+      { "firstname": "Nicola", "age": 50, "city": "San Francisco" },
+      { "firstname": "Maysen", "age": 43, "city": "Seattle" },
+      { "firstname": "Edgardo", "age": 6, "city": "Tigard" },
+      { "firstname": "Zaria", "age": 38, "city": "San Francisco" },
+      { "firstname": "Arlo", "age": 44, "city": "Walnut Creek" },
+      { "firstname": "Shaelyn", "age": 15, "city": "Ridgefield" },
+      { "firstname": "Zuzanna", "age": 85, "city": "Walnut Creek" },
+      { "firstname": "Dara", "age": 88, "city": "Concord" },
+      { "firstname": "Mikyla", "age": 96, "city": "Beaverton" },
+      { "firstname": "Janet", "age": 29, "city": "Seattle" },
+      { "firstname": "Jolene", "age": 41, "city": "Ridgefield" },
+      { "firstname": "Elenore", "age": 56, "city": "Ridgefield" },
+      { "firstname": "Jaydon", "age": 17, "city": "Tigard" },
+      { "firstname": "Cylus", "age": 48, "city": "Ridgefield" },
+      { "firstname": "Nila", "age": 97, "city": "Ridgefield" },
+      { "firstname": "Korey", "age": 20, "city": "Beaverton" },
+      { "firstname": "Josette", "age": 73, "city": "San Francisco" },
+      { "firstname": "Kiran", "age": 34, "city": "Tigard" },
+      { "firstname": "Roman", "age": 19, "city": "Beaverton" },
+      { "firstname": "Bryan", "age": 12, "city": "Pleasant Hill" },
+      { "firstname": "Jameel", "age": 17, "city": "Concord" },
+      { "firstname": "Caeli", "age": 72, "city": "Tigard" },
+      { "firstname": "Mohammed", "age": 91, "city": "San Francisco" },
+      { "firstname": "Rishabh", "age": 12, "city": "Portland" },
+      { "firstname": "Kylin", "age": 90, "city": "Seattle" },
+      { "firstname": "Thais", "age": 34, "city": "Seattle" }
+   ]
 }

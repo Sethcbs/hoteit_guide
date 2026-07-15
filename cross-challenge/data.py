@@ -7,7 +7,7 @@ def GetNames():
     response = requests.get(
             "https://randommer.io/api/Name",
             params={"nametype": "firstname", "quantity": 100},
-            headers={"x-api-key": ""},
+            headers={"x-api-key": "9a4c60f21d5d48888d0679fa9a51a59e"},
             timeout = 10,
     )
     
@@ -26,14 +26,16 @@ if __name__ == "__main__":
     names = GetNames()
     with open("people.json", "w") as f:
         f.write("{\n")
+        f.write("   \"people\": [\n")
         for i in range(99):
-            f.write("   \"person\": {\n")
-            f.write(f"      \"firstname\": \"{names[i]}\",\n")
-            f.write(f"      \"age\": \"{random.randint(1,100)}\",\n")
-            f.write(f"      \"city\": \"{GetCity()}\"\n")
+            f.write("      { ");
+            f.write(f"\"firstname\": \"{names[i]}\", ")
+            f.write(f"\"age\": {random.randint(1,100)}, ")
+            f.write(f"\"city\": \"{GetCity()}\" ")
             if(i != 98):
-                f.write("   },\n")
+                f.write("},\n")
             else:
-                f.write("   }\n")
+                f.write("}\n")
+        f.write("   ]\n")
         f.write("}")
 
