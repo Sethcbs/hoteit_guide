@@ -1,0 +1,4 @@
+Here is the one line bash command I made for the exercise
+
+find . -name "*.py" -type f -print | xargs /bin/wc -l > loc.txt 
+
